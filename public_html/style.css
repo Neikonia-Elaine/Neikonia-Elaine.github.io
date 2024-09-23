@@ -1,0 +1,52 @@
+body{
+background-color:#EBDEF0;
+}
+
+
+p{
+color:lightblue;
+}
+details >summary{
+text-align:center;
+padding: 8px;
+width: 200px;
+background-color: #0E6655;
+border:white;
+box-shadow: 3px 3px 4px #1A5276;
+cursor:pointer;
+color:white;
+}
+
+details >p{
+padding:8px;
+margin:2px;
+box-shadow:3px 3px 4px #1A5276;
+color:black;
+}
+
+dl{
+display:block;
+margin-top:1em;
+margin-bottom:1em;
+margin-left:8em;
+margin-right:8em:
+}
+
+#myP{
+font-weight:bold;
+color:black;
+}
+
+ul li{
+color:#BBFFBB;
+}
+
+h1{
+text-align:center;
+color:#DC7633;
+font-family:"Lucida Handwriting",Cursive
+}
+
+div{
+text-align:center;
+}
