@@ -1,0 +1,6 @@
+.snapshot/
+.bash_history
+.cache/
+.config/
+.local/
+.ssh/
